@@ -6,7 +6,6 @@
 
 <p align="left">
   🦄 Linguagens: <img height="30" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/>
-  <img height="30" align="center" src="![kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-Ömer-5b6766ab5dba25 7100170215335031473839](https://user-images.githubusercontent.com/45575737/113316923-3d630e00-92e5-11eb-85e4-1a7e3daa23e7.png)" alt="Java"/>
 </p>
 
 <p align="left">

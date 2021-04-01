@@ -6,7 +6,7 @@
 
 <p align="left">
   🦄 Linguagens: <img height="30" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/>
-  <img height="30" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Python"/>
+  <img height="30" align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gratispng.com%2Fpng-imj397%2F&psig=AOvVaw29nKyFpF8CM0-KdYM-D9wW&ust=1617377009733000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDtlIOt3e8CFQAAAAAdAAAAABAD" alt="Java"/>
 </p>
 
 <p align="left">

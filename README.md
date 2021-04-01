@@ -6,7 +6,7 @@
 
 <p align="left">
   🦄 Linguagens: <img height="30" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/>
-  <img height="30" align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gratispng.com%2Fpng-imj397%2F&psig=AOvVaw29nKyFpF8CM0-KdYM-D9wW&ust=1617377009733000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDtlIOt3e8CFQAAAAAdAAAAABAD" alt="Java"/>
+  <img height="30" align="center" src="![kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-Ömer-5b6766ab5dba25 7100170215335031473839](https://user-images.githubusercontent.com/45575737/113316923-3d630e00-92e5-11eb-85e4-1a7e3daa23e7.png)" alt="Java"/>
 </p>
 
 <p align="left">

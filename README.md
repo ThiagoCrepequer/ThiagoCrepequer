@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Thiago e eu sou um programador iniciante, eu amo basicamente tudo sobre tecnologia e como ela funciona, mas minha principal paixão é a programação e mais especificamente em <strong>Python</strong> para desenvolvimento de jogos.
+  Olá, meu nome é Thiago e eu sou um programador iniciante, eu amo basicamente tudo sobre tecnologia e como ela funciona, mas minha principal paixão é a programação e mais especificamente em <strong>Python</strong> e algumas coisas em <strong>Java</strong> para desenvolvimento de jogos.
 </p>
 
 <p align="left">

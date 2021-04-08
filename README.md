@@ -1,11 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Thiago e eu sou um programador iniciante, eu amo basicamente tudo sobre tecnologia e como ela funciona, mas minha principal paixão é a programação e mais especificamente em <strong>Python</strong> e algumas coisas em <strong>Java</strong> para desenvolvimento de jogos.
+  Olá, meu nome é Thiago e eu sou um programador iniciante, eu amo basicamente tudo sobre tecnologia e como ela funciona, mas minha principal paixão é a programação e mais especificamente em <strong>Java</strong> e algumas coisas em <strong>Python</strong> para desenvolvimento de jogos.
 </p>
 
 <p align="left">
   🦄 Linguagens: <img height="30" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/>
+  <img height="30" align="center" src="https://i.ibb.co/ZhWfMyK/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception.png">
 </p>
 
 <p align="left">

@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, meu nome é Thiago Crepequer</h1>
-<h3 align="center">Desenvolvedor front-end junior e entusiasta da tecnologia</h3>
+<h3 align="center">Desenvolvedor full stack junior e entusiasta da tecnologia</h3>
 
 - 🔭 Atualmente estou fazendo o curso Fundamentar da Rocketseat
 

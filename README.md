@@ -5,7 +5,7 @@
 
 - 📓 Lendo e estudando "Entendendo Algoritmos. Um guia ilustrado para programadores e outros curiosos"
 
-- 🌱 Estou buscando me aprofundar em: **Javascript**
+- 🌱 Estou buscando me aprofundar em: **React** <img src="https://user-images.githubusercontent.com/45575737/217330433-e5484315-7720-4e19-9f45-0ff45683ea2a.png" alt="reactjs" width="15" height="15"/>
 
 - 📫 Se precisar, entre em contato comigo por **thiago.crepequer@hotmail.com** ou pelas redes sociais abaixo 😉
 
@@ -17,7 +17,9 @@
 </p>
 
 <h3 align="left">Linguagens e Ferramentas</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/45575737/217330433-e5484315-7720-4e19-9f45-0ff45683ea2a.png" alt="reactjs" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/45575737/217330828-e58645da-af83-4bba-9672-85d7e0d1b790.png" alt="nodejs" width="40" height="40"/>
 
 <h3 align="left">Livros</h3>
 <p>Algoritmos e Lógica de Programação (3ª Edição)</p>

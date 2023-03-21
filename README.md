@@ -5,6 +5,8 @@
 
 - 🌱 Estou buscando me aprofundar em: **React** <img src="https://user-images.githubusercontent.com/45575737/217330433-e5484315-7720-4e19-9f45-0ff45683ea2a.png" alt="reactjs" width="15" height="15"/>
 
+- 📚 Livor que estou lendo: Clean Code: A Handbook of Agile Software Craftsmanship Robert C. Martin
+
 - 📫 Se precisar, entre em contato comigo por **thiago.crepequer@hotmail.com** ou pelas redes sociais abaixo 😉
 
 <h3 align="left">Contatos</h3>
@@ -20,5 +22,5 @@
   <img src="https://user-images.githubusercontent.com/45575737/217330828-e58645da-af83-4bba-9672-85d7e0d1b790.png" alt="nodejs" width="40" height="40"/>
 
 <h3 align="left">Livros</h3>
-<p>Entendendo Algoritmos. Um guia ilustrado para programadores e outros curiosos</p>
-<p>Algoritmos e Lógica de Programação (3ª Edição)</p>
+<p>Entendendo Algoritmos. Um guia ilustrado para programadores e outros curiosos<br>
+Algoritmos e Lógica de Programação (3ª Edição)</p>

@@ -1,26 +1,14 @@
-<h1 align="center">Olá 👋, meu nome é Thiago Crepequer</h1>
-<h3 align="center">Desenvolvedor full stack junior e entusiasta da tecnologia</h3>
+<div align="center">
+  
+### Hello 👋 I'm Thiago
 
-- 🔭 Atualmente estou fazendo o curso Fundamentar da Rocketseat
+An enthusiastic software developer specializing in backend. My passion for technology drives me to create the sturdy foundations that power modern applications. For me, the real magic happens behind the scenes, where data is processed, databases are managed, and APIs are built.
 
-- 🌱 Estou buscando me aprofundar em: **React** <img src="https://user-images.githubusercontent.com/45575737/217330433-e5484315-7720-4e19-9f45-0ff45683ea2a.png" alt="reactjs" width="15" height="15"/>
+### Technologies
 
-- 📚 Livor que estou lendo: Clean Code: A Handbook of Agile Software Craftsmanship Robert C. Martin
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" /> <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-- 📫 Se precisar, entre em contato comigo por **thiago.crepequer@hotmail.com** ou pelas redes sociais abaixo 😉
+### Github stats
 
-<h3 align="left">Contatos</h3>
-<p align="left">
-<a href="https://twitter.com/crepquer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crepquer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thiagocrepequer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiagocrepequer" height="30" width="40" /></a>
-<a href="https://instagram.com/t.crepequer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t.crepequer" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Linguagens e Ferramentas</h3>
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/45575737/217330433-e5484315-7720-4e19-9f45-0ff45683ea2a.png" alt="reactjs" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/45575737/217330828-e58645da-af83-4bba-9672-85d7e0d1b790.png" alt="nodejs" width="40" height="40"/>
-
-<h3 align="left">Livros</h3>
-<p>Entendendo Algoritmos. Um guia ilustrado para programadores e outros curiosos<br>
-Algoritmos e Lógica de Programação (3ª Edição)</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thiagocrepequer&theme=transparent)](https://git.io/streak-stats)
+</div>

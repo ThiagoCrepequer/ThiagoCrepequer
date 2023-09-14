@@ -1,3 +1,6 @@
+<img src="https://i.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.webp" width="100%">
+
+
 <div align="center">
   
 ### Hello 👋 I'm Thiago

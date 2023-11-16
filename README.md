@@ -14,7 +14,7 @@ An enthusiastic software developer specializing in backend. My passion for techn
 ### Github stats
 <div>
   <img src="https://github-stats-git-main-thiagocrepequers-projects.vercel.app/api?username=thiagocrepequer&theme=transparent"/>
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocrepequer&layout=compact&theme=transparent"/>
 </div>
 
 </div>
